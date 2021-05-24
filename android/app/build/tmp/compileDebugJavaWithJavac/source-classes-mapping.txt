@@ -1,0 +1,14 @@
+com/newsapp/ReactNativeFlipper.java
+ com.newsapp.ReactNativeFlipper
+ com.newsapp.ReactNativeFlipper$1
+ com.newsapp.ReactNativeFlipper$2
+ com.newsapp.ReactNativeFlipper$2$1
+com/newsapp/MainActivity.java
+ com.newsapp.MainActivity
+com/newsapp/BuildConfig.java
+ com.newsapp.BuildConfig
+com/newsapp/MainApplication.java
+ com.newsapp.MainApplication
+ com.newsapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
